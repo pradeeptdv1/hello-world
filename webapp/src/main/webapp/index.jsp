@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1> Hello, Welcome to COE TEAM !!!   </h1>
+<h2> HCL TECHNOLOGY </h2>
+<h2> .........................</h2>
